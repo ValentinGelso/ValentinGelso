@@ -23,7 +23,7 @@ Soy desarrollador frontend y apasionado por el diseño de interfaces limpias, fu
 
 ### 📫 Cómo contactarme
 
-* **Linkedin:** [Valentíngelsomino93](https://linkedin.com/in/valentíngelsomino93)
+* **Linkedin:** [Valentingelsomino93](https://www.linkedin.com/in/valentingelsomino93/)
 * **Email:** [Vgelsomino@gmail.com](mailto:vgelsomino@gmail.com)
 
 ---
